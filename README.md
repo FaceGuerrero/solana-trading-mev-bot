@@ -61,7 +61,7 @@ Once the transaction is executed, the bot queries the RPC for the backrun transa
 
 ### Pre-requisites
 
-- Node.jsp[https://nodejs.org/en/download] has been installed
+- [Node.js](https://nodejs.org/en/download) has been installed
 - Wallet private keys and some SOL
 - Fast RPC connection. For first-time use, you can use the default link to check for errors.
 - After confirming that the local environment functions properly under good network conditions, it is recommended to migrate to a dedicated server.
