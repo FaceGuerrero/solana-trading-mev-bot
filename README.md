@@ -82,4 +82,4 @@ npm run mev
 ### Donation
 
 If this project has been helpful to you, please click a star for it. If possible, consider donating some SOL to me—it would be a huge help for future updates:
-`7GtsKuSsM3hP3MGZoryvYqUGnsw7W4Lw3Pbui45mU65V` 
+`7GtsKuSsM3hP3MGZoryvYqUGnsw7W4Lw3Pbui45mU65V`
